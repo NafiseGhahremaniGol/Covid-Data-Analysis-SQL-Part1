@@ -3,9 +3,9 @@ BULK INSERT dbo.CovidDeaths
 FROM 'D:\Data Analysis Projects\Part 1\CovidDeaths-Edited.csv'
 WITH (
     FORMAT = 'CSV',
-    FIRSTROW = 2,  -- چون ردیف اول هدر هست
-    FIELDTERMINATOR = ',',  -- جداکننده ستون‌ها
-    ROWTERMINATOR = '\n',   -- جداکننده ردیف‌ها
+    FIRSTROW = 2,  
+    FIELDTERMINATOR = ',', 
+    ROWTERMINATOR = '\n',   
     TABLOCK
 );
 
@@ -19,3 +19,4 @@ WITH (
     ROWTERMINATOR = '\n',
     TABLOCK
 );
+
