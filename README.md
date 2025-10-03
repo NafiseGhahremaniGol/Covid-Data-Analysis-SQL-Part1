@@ -1,3 +1,6 @@
+![GitHub language](https://img.shields.io/github/languages/top/NafiseGhahremaniGol/Covid-Data-Analysis-SQL-Part1)
+![Repo Size](https://img.shields.io/github/repo-size/NafiseGhahremaniGol/Covid-Data-Analysis-SQL-Part1)
+
 # COVID-19 Data Analysis with SQL
 
 ## Project Overview
